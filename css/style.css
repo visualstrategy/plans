@@ -1,0 +1,203 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+ background: #000;
+  color: #808289;
+  font: 400 16px/29px "Ubuntu", sans-serif;
+  -webkit-text-size-adjust: none;
+}
+
+#visual {
+  position: relative;
+  height: 100vh;
+}
+
+#visual .visual-bg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-image: url('../img/bg2.jpg');
+  background-size: cover;
+}
+
+#visual .visual-bg:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+#visual .visual {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+#visual .visual:after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50% , -50%);
+      -ms-transform: translate(-50% , -50%);
+          transform: translate(-50% , -50%);
+  width: 100%;
+  height: 400px;
+  background-color: rgba(0, 0, 0, 0.7);
+  -webkit-box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0.7) inset;
+          box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0.7) inset;
+  z-index: -1;
+}
+
+.visual {
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+  padding: 30px;
+  line-height: 1.4;
+}
+
+.visual .visual-box {
+  position: relative;
+  height: 100px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+h1 {
+  font-size: 36px;
+  line-height: 40px;
+  letter-spacing: 15.12px;
+}
+@media (max-width: 479px) {
+  h1 {
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 6px;
+  }
+}
+
+h2 {
+  font-size: 34px;
+  line-height: 50px;
+}
+@media (max-width: 767px) {
+  h2 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+}
+
+h3 {
+  font-size: 19px;
+  line-height: 30px;
+  letter-spacing: 6px;
+   font-weight: 300;
+}
+
+h4 {
+  font-size: 18px;
+  letter-spacing: 6px;
+}
+
+h5 {
+  font-size: 17px;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+.visual-search {
+  position: relative;
+  padding-right: 120px;
+  max-width: 420px;
+  width: 100%;
+  margin: 30px auto 20px;
+}
+
+.visual-search input {
+  font-family: 'Muli', sans-serif;
+  width: 100%;
+  height: 40px;
+  padding: 3px 15px;
+  color: #fff;
+  font-weight: 400;
+  font-size: 18px;
+  background: #FFFFFF;
+  border: none;
+}
+
+.visual-search button {
+  font-family: 'Muli', sans-serif;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 120px;
+  height: 40px;
+  text-align: center;
+  border: none;
+  background: #ff00b4;
+  cursor: pointer;
+  padding: 0;
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.visual a {
+  font-family: 'Muli', sans-serif;
+  display: inline-block;
+  font-weight: 400;
+  text-decoration: none;
+  background-color: transparent;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.visual-social {
+  margin-bottom: 15px;
+}
+.visual-social>a {
+  display: inline-block;
+  height: 40px;
+  line-height: 40px;
+  width: 40px;
+  font-size: 14px;
+  color: #FFFFFF;
+  background-color: #222225;
+  margin: 3px;
+  -webkit-transition: 0.2s all;
+  transition: 0.2s all;
+}
+.visual-social>a:hover {
+  color: #fff;
+  background-color: #35A6FF;
+}
+
+@media only screen and (max-width: 480px) {
+  .visual .visual-box {
+    height: 146px;
+  }
+
+  .visual .visual-box h1 {
+    font-size: 146px;
+  }
+
+  .visual h2 {
+    font-size: 22px;
+  }
+}
