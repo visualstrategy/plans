@@ -139,33 +139,11 @@ h6 {
   border: none;
 }
 
-.visual-search button {
-  font-family: 'Muli', sans-serif;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  width: 120px;
-  height: 40px;
-  text-align: center;
-  border: none;
-  background: #ff00b4;
-  cursor: pointer;
-  padding: 0;
-  color: #FFFFFF;
-  font-weight: 400;
-  font-size: 16px;
-  text-transform: uppercase;
-}
 
 .visual a {
-  font-family: 'Muli', sans-serif;
   display: inline-block;
-  font-weight: 400;
   text-decoration: none;
   background-color: transparent;
-  color: #FFFFFF;
-  text-transform: uppercase;
-  font-size: 14px;
 }
 
 .visual-social {
