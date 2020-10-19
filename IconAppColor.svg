@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Layer_1"
    data-name="Layer 1"
-   width="300"
-   height="300"
-   viewBox="0 0 300 300"
+   width="123"
+   height="70"
+   viewBox="0 0 123 70"
    version="1.1"
-   sodipodi:docname="AppIcon_colors.svg"
+   sodipodi:docname="IconAppColor123x70.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata1768">
@@ -40,13 +40,49 @@
      inkscape:window-height="1377"
      id="namedview1766"
      showgrid="false"
-     inkscape:zoom="1.5733333"
-     inkscape:cx="-202.9012"
-     inkscape:cy="109.82763"
+     inkscape:zoom="8.9001172"
+     inkscape:cx="33.918806"
+     inkscape:cy="28.524856"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" />
+     inkscape:current-layer="Layer_1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid926" />
+    <sodipodi:guide
+       position="18,20"
+       orientation="1,0"
+       id="guide928"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="41.291591,28.651308"
+       orientation="1,0"
+       id="guide930"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="62.611535,13.623416"
+       orientation="0,1"
+       id="guide932"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="45.982541,28.510861"
+       orientation="0,1"
+       id="guide934"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="60.619705,45.524365"
+       orientation="1,0"
+       id="guide936"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.98517,55.852756"
+       orientation="0,1"
+       id="guide1526"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <defs
      id="defs1719">
     <style
@@ -54,151 +90,152 @@
   </defs>
   <title
      id="title1721">Artboard 2</title>
-  <rect
-     class="cls-1"
-     x="27"
-     y="61"
-     width="48"
-     height="28"
-     rx="6"
-     id="rect1737"
-     style="fill:#92d050;fill-opacity:1" />
-  <rect
-     class="cls-1"
-     x="91"
-     y="136"
-     width="48"
-     height="28"
-     rx="6"
-     id="rect1739"
-     style="fill:#ffc000;fill-opacity:1" />
-  <rect
-     class="cls-1"
-     x="27"
-     y="211"
-     width="48"
-     height="28"
-     rx="6"
-     id="rect1751"
-     style="fill:#f26e6e;fill-opacity:1" />
   <path
      class="cls-1"
-     d="M215.82046,150l-16.61763,16.61763-2.05886,2.05881a25,25,0,1,1,0-37.35293l2.05886,2.05882Z"
+     d="m 87.668545,35.315796 -6.037255,6.037256 -0.747993,0.747974 a 9.0826065,9.0826065 0 1 1 0,-13.570478 l 0.747993,0.747978 z"
      id="path1723"
-     style="fill:#0066ff" />
+     style="fill:#0066ff;stroke-width:0.36330426"
+     inkscape:connector-curvature="0" />
   <rect
      class="cls-1"
-     x="223"
-     y="125"
-     width="50"
-     height="50"
+     x="90.276901"
+     y="26.233191"
+     width="18.165213"
+     height="18.165213"
      rx="6"
      id="rect1725"
-     style="fill:#0066ff" />
+     style="fill:#0066ff;stroke-width:0.36330426"
+     ry="6" />
   <path
      class="cls-2"
-     d="M215.82046,150l-16.61763,16.61763-2.05886,2.05881a25,25,0,1,1,0-37.35293l2.05886,2.05882Z"
+     d="m 87.668545,35.315796 -6.037255,6.037256 -0.747993,0.747974 a 9.0826065,9.0826065 0 1 1 0,-13.570478 l 0.747993,0.747978 z"
      id="path1727"
-     style="fill:#0078d4;fill-opacity:0" />
+     style="fill:#0078d4;fill-opacity:0;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10"
+     inkscape:connector-curvature="0" />
   <rect
      class="cls-2"
-     x="223"
-     y="125"
-     width="50"
-     height="50"
+     x="90.276901"
+     y="26.233191"
+     width="18.165213"
+     height="18.165213"
      rx="6"
      id="rect1729"
-     style="fill:#0078d4;fill-opacity:0" />
-  <rect
-     class="cls-2"
-     x="27"
-     y="136"
-     width="48"
-     height="28"
-     rx="6"
-     id="rect1731" />
-  <rect
-     class="cls-2"
-     x="27"
-     y="61"
-     width="48"
-     height="28"
-     rx="6"
-     id="rect1733" />
-  <rect
-     class="cls-2"
-     x="91"
-     y="136"
-     width="48"
-     height="28"
-     rx="6"
-     id="rect1735" />
-  <rect
-     class="cls-2"
-     x="91"
-     y="61"
-     width="48"
-     height="28"
-     rx="6"
-     id="rect1741" />
+     style="fill:#0078d4;fill-opacity:0;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10"
+     ry="6" />
   <polyline
      class="cls-2"
      points="139 75 155 75 173.657 106.66"
-     id="polyline1743" />
+     id="polyline1743"
+     style="fill:none;stroke:#3b3a39;stroke-width:6px;stroke-miterlimit:10"
+     transform="matrix(0.36330426,0,0,0.36330426,9.2600529,-19.179843)" />
   <polyline
      class="cls-2"
      points="177.894 90.227 173.657 106.66 157.224 102.424"
-     id="polyline1745" />
+     id="polyline1745"
+     style="fill:none;stroke:#3b3a39;stroke-width:6px;stroke-miterlimit:10"
+     transform="matrix(0.36330426,0,0,0.36330426,9.2600529,-19.179843)" />
   <line
      class="cls-2"
-     x1="75"
-     y1="75.0495"
-     x2="91"
-     y2="75"
-     id="line1747" />
+     x1="36.507874"
+     y1="8.0859604"
+     x2="42.32074"
+     y2="8.067977"
+     id="line1747"
+     style="fill:none;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10" />
   <rect
      class="cls-2"
-     x="27"
-     y="211"
-     width="48"
-     height="28"
-     rx="6"
-     id="rect1749" />
-  <rect
-     class="cls-2"
-     x="91"
-     y="211"
-     width="48"
-     height="28"
-     rx="6"
-     id="rect1753" />
+     x="42.32074"
+     y="57.477356"
+     width="17.438604"
+     height="10.17252"
+     rx="0.1573804"
+     id="rect1753"
+     style="fill:none;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10"
+     ry="6" />
   <polyline
      class="cls-2"
      points="139 225 155 225 173.657 193.34"
-     id="polyline1755" />
+     id="polyline1755"
+     style="fill:none;stroke:#3b3a39;stroke-width:6px;stroke-miterlimit:10"
+     transform="matrix(0.36330426,0,0,0.36330426,9.2600529,-19.179843)" />
   <polyline
      class="cls-2"
      points="177.894 209.773 173.657 193.34 157.224 197.576"
-     id="polyline1757" />
+     id="polyline1757"
+     style="fill:none;stroke:#3b3a39;stroke-width:6px;stroke-miterlimit:10"
+     transform="matrix(0.36330426,0,0,0.36330426,9.2600529,-19.179843)" />
   <line
      class="cls-2"
-     x1="75"
-     y1="224.9505"
-     x2="91"
-     y2="225"
-     id="line1759" />
+     x1="36.507874"
+     y1="62.545631"
+     x2="42.32074"
+     y2="62.563614"
+     id="line1759"
+     style="fill:none;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10" />
   <line
      class="cls-2"
-     x1="75"
-     y1="150"
-     x2="91"
-     y2="150"
-     id="line1761" />
+     x1="36.507874"
+     y1="35.315796"
+     x2="42.32074"
+     y2="35.315796"
+     id="line1761"
+     style="fill:none;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10" />
   <line
      class="cls-2"
-     x1="139"
-     y1="150"
-     x2="155.52634"
-     y2="150"
-     id="line1763" />
+     x1="59.759346"
+     y1="35.315796"
+     x2="65.763435"
+     y2="35.315796"
+     id="line1763"
+     style="fill:none;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10" />
+  <rect
+     class="cls-2"
+     x="18.531757"
+     y="30.115015"
+     width="17.438604"
+     height="10.17252"
+     rx="0.1573804"
+     id="rect1753-7"
+     style="fill:none;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10"
+     ry="6" />
+  <rect
+     class="cls-2"
+     x="19.084269"
+     y="57.421341"
+     width="17.438604"
+     height="10.17252"
+     rx="0.1573804"
+     id="rect1753-4"
+     style="fill:#f26e6e;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10;fill-opacity:1"
+     ry="6" />
+  <rect
+     class="cls-2"
+     x="42.307159"
+     y="2.9434013"
+     width="17.438604"
+     height="10.17252"
+     rx="0.1573804"
+     id="rect1753-6"
+     style="fill:none;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10"
+     ry="6" />
+  <rect
+     class="cls-2"
+     x="19.008453"
+     y="2.8639505"
+     width="17.438604"
+     height="10.17252"
+     rx="0.1573804"
+     id="rect1753-2"
+     style="fill:#92d050;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10;fill-opacity:1"
+     ry="6" />
+  <rect
+     class="cls-2"
+     x="42.287052"
+     y="30.19446"
+     width="17.438604"
+     height="10.17252"
+     rx="0.1573804"
+     id="rect1753-26"
+     style="fill:#ffc000;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10;fill-opacity:1"
+     ry="6" />
 </svg>
