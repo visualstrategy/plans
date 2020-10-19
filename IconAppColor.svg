@@ -10,8 +10,8 @@
    id="Layer_1"
    data-name="Layer 1"
    width="123"
-   height="100"
-   viewBox="0 0 123 100"
+   height="70"
+   viewBox="0 0 123 70"
    version="1.1"
    sodipodi:docname="IconAppColor123x100.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
@@ -92,7 +92,7 @@
      id="title1721">Artboard 2</title>
   <g
      id="g2135"
-     transform="translate(0.86035899,6.6434619)">
+     transform="matrix(0.86162861,0,0,0.86162861,9.1293428,0.24890667)">
     <path
        inkscape:connector-curvature="0"
        style="fill:#0066ff;stroke-width:0.36330426"
@@ -100,10 +100,10 @@
        d="m 87.668545,35.315796 -6.037255,6.037256 -0.747993,0.747974 a 9.0826065,9.0826065 0 1 1 0,-13.570478 l 0.747993,0.747978 z"
        class="cls-1" />
     <rect
-       ry="6"
+       ry="6.9635572"
        style="fill:#0066ff;stroke-width:0.36330426"
        id="rect1725"
-       rx="6"
+       rx="6.9635572"
        height="18.165213"
        width="18.165213"
        y="26.233191"
@@ -116,10 +116,10 @@
        d="m 87.668545,35.315796 -6.037255,6.037256 -0.747993,0.747974 a 9.0826065,9.0826065 0 1 1 0,-13.570478 l 0.747993,0.747978 z"
        class="cls-2" />
     <rect
-       ry="6"
+       ry="6.9635572"
        style="fill:#0078d4;fill-opacity:0;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10"
        id="rect1729"
-       rx="6"
+       rx="6.9635572"
        height="18.165213"
        width="18.165213"
        y="26.233191"
@@ -146,10 +146,10 @@
        x1="36.507874"
        class="cls-2" />
     <rect
-       ry="6"
+       ry="6.9635572"
        style="fill:none;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10"
        id="rect1753"
-       rx="0.1573804"
+       rx="0.18265457"
        height="10.17252"
        width="17.438604"
        y="57.477356"
@@ -192,50 +192,50 @@
        x1="59.759346"
        class="cls-2" />
     <rect
-       ry="6"
+       ry="6.9635572"
        style="fill:none;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10"
        id="rect1753-7"
-       rx="0.1573804"
+       rx="0.18265457"
        height="10.17252"
        width="17.438604"
        y="30.115015"
        x="18.531757"
        class="cls-2" />
     <rect
-       ry="6"
+       ry="6.9635572"
        style="fill:#f26e6e;fill-opacity:1;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10"
        id="rect1753-4"
-       rx="0.1573804"
+       rx="0.18265457"
        height="10.17252"
        width="17.438604"
        y="57.421341"
        x="19.084269"
        class="cls-2" />
     <rect
-       ry="6"
+       ry="6.9635572"
        style="fill:none;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10"
        id="rect1753-6"
-       rx="0.1573804"
+       rx="0.18265457"
        height="10.17252"
        width="17.438604"
        y="2.9434013"
        x="42.307159"
        class="cls-2" />
     <rect
-       ry="6"
+       ry="6.9635572"
        style="fill:#92d050;fill-opacity:1;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10"
        id="rect1753-2"
-       rx="0.1573804"
+       rx="0.18265457"
        height="10.17252"
        width="17.438604"
        y="2.8639505"
        x="19.008453"
        class="cls-2" />
     <rect
-       ry="6"
+       ry="6.9635572"
        style="fill:#ffc000;fill-opacity:1;stroke:#3b3a39;stroke-width:2.17982554px;stroke-miterlimit:10"
        id="rect1753-26"
-       rx="0.1573804"
+       rx="0.18265457"
        height="10.17252"
        width="17.438604"
        y="30.19446"
